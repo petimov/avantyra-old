@@ -1,0 +1,65 @@
+.footer {
+    background-color: black;
+}
+
+.footer > div {
+    width: 90vw;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer > div > .footer-logo > a > svg {
+    width: 120px;
+    height: 120px;
+    transition: .3s;
+}
+
+.footer > div > .footer-logo > a > svg:hover {
+    transform: scale(1.04);
+}
+
+.footer p {
+    color: #fbfafa;
+    font-family: 'Nunito';
+}
+
+.footer .socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.footer .socials > a {
+    width: 24px;
+    height: 24px;
+    fill: #fbfafa;
+}
+
+.footer .socials > a svg > path {
+    transition: .3s ease-in-out;
+}
+
+.footer .socials > a:hover svg > path {
+    fill: #52c0db;
+}
+
+.footer > div > div > p {
+    font-size: 15px;
+  }
+
+/* RESPONSIVE */
+@media (max-width: 832px) {
+    .footer > div > .footer-logo > a > svg {
+        width: 80px;
+        height: 80px;
+    }
+  }
+  
+  @media (max-width: 576px) {
+      .footer > div > div > p {
+        font-size: 12px;
+      }
+  }

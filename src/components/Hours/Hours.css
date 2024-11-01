@@ -1,0 +1,54 @@
+.hours {
+    border-top: 4px solid #fff;
+    background-color: #91d0e8;
+    padding: 40px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.hours > div {
+    max-width: fit-content;
+    padding: 40px;
+    margin-top: 70px;
+    margin-bottom: 90px;
+    display: flex;
+    gap: 18px;
+    flex-direction: column;
+    align-items: center;
+    border: 4px dashed #212427;
+    border-radius: 11.5px;
+}
+
+.hours > div > h2 {
+    margin-top: -60px;
+    padding: 0 8px;
+    background-color: #91d0e8;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.hours > div {
+    font-family: 'Nunito';
+}
+
+image {
+    width: 100%;
+}
+
+.hours > div > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+}
+
+.hours > div > div > h3 {
+    color: #33383c;
+}
+
+.hours > div > div > P {
+    color: #2a2e32;
+    font-size: 18px;
+    font-weight: 700;
+}

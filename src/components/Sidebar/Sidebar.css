@@ -1,0 +1,79 @@
+.bm-burger-bars {
+    background: #373a47;
+  }
+  
+.bm-burger-bars-hover {
+    background: #a90000;
+}
+
+.bm-burger-bars-hover {
+
+    background: #a90000;
+  
+  }
+  
+  
+  .bm-menu-wrap {
+  
+    position: fixed;
+  
+    height: 100%;
+  
+  }
+  
+  
+  .bm-menu {
+  
+    background: #373a47;
+  
+    padding: 2.5em 1.5em 0;
+  
+    font-size: 1.15em;
+  
+  }
+
+  .bm-burger-button {
+    position: fixed;
+    width: 36px;
+    height: 30px;
+    right: 36px;
+    top: 36px;
+    float: right;
+  }
+
+  .bm-burger-bars {
+    height: 2px;
+  }
+
+  .bm-menu {
+    background: #373a47;
+    padding: 2.5em 1.5em 0;
+    font-size: 1.5em;
+  }
+  
+  /* Morph shape necessary with bubble or elastic */
+  .bm-morph-shape {
+    fill: #373a47;
+  }
+  
+  /* Wrapper for item list */
+  .bm-item-list {
+    color: #b8b7ad;
+    padding: 0.8em;
+  }
+
+  .bm-item-list > a {
+    padding: 10px 0;
+    color: #d1d1d1;
+    font-family: 'Nunito';
+  }
+  
+  /* Individual item */
+  .bm-item {
+    display: inline-block;
+  }
+  
+  /* Styling of overlay */
+  .bm-overlay {
+    background: rgba(0, 0, 0, 0.3);
+  }
