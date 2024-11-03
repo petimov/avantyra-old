@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/avantyra/static/css/main.e2dbd6aa.css",
-    "main.js": "/avantyra/static/js/main.a6a988ca.js",
-    "static/media/1.webp": "/avantyra/static/media/1.00dff155ab04bf3daf90.webp",
-    "static/media/3.webp": "/avantyra/static/media/3.80556656933329482c12.webp",
-    "static/media/logo.png": "/avantyra/static/media/logo.dbf3b4123357c06d3574.png",
-    "static/media/4.webp": "/avantyra/static/media/4.f5893850e208162c7c40.webp",
-    "static/media/2.webp": "/avantyra/static/media/2.0075412bd9e678b4eb83.webp",
+    "main.css": "/avantyra/static/css/main.90ce74bc.css",
+    "main.js": "/avantyra/static/js/main.7e1e32af.js",
+    "static/media/3.webp": "/avantyra/static/media/3.92e646e082854932f28d.webp",
     "static/media/cover.webp": "/avantyra/static/media/cover.dae933bfa05b7c1a12a4.webp",
+    "static/media/4.webp": "/avantyra/static/media/4.bae432e4ae3195b5bec8.webp",
+    "static/media/2.webp": "/avantyra/static/media/2.d4add86feee55e74ab85.webp",
     "static/media/menu_bg.png": "/avantyra/static/media/menu_bg.7253dd90be020ae249e8.png",
+    "static/media/1.webp": "/avantyra/static/media/1.f522fcfdd9d9a98171a5.webp",
+    "static/media/logo.webp": "/avantyra/static/media/logo.464d779a9c0a64ea5f28.webp",
     "index.html": "/avantyra/index.html",
-    "main.e2dbd6aa.css.map": "/avantyra/static/css/main.e2dbd6aa.css.map",
-    "main.a6a988ca.js.map": "/avantyra/static/js/main.a6a988ca.js.map"
+    "main.90ce74bc.css.map": "/avantyra/static/css/main.90ce74bc.css.map",
+    "main.7e1e32af.js.map": "/avantyra/static/js/main.7e1e32af.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2dbd6aa.css",
-    "static/js/main.a6a988ca.js"
+    "static/css/main.90ce74bc.css",
+    "static/js/main.7e1e32af.js"
   ]
 }
