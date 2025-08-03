@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer.css'
-import Logo from '../../images/Logo/Logo'
+import logoIMG from  '../../images/kavarna_avantyra_logo.webp'
 import { Link } from 'react-scroll'
 
 const Footer = () => {
@@ -8,6 +8,7 @@ const Footer = () => {
     <div className='footer'>
         <div>
             <div className='footer-logo'><Link to='main-view-page' smooth><Logo /></Link></div>
+            <div className='footer-logo'><Link to='main-view-page' smooth><img src={logoIMG} /></Link></div>
             <div>
                 <p>Copyright &copy; {(new Date().getFullYear())} kavárna Avantýra</p>
             </div>
